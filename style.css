@@ -265,7 +265,7 @@ section{
     }
 
     footer .linha2 a:first-child{
-        border-right: 3px solid white;
+        border-right: 3px solid;
     }
 
     footer .linha2 a:hover{
